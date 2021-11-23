@@ -1,0 +1,21 @@
+h1{
+font-size: 98px;
+}
+
+li,p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul{
+    background-color:beige;
+}
+
+ol{
+    background-color:lightblue;
+}
+
+h2{
+    font-size: 40px;
+    color:white;
+    background-color: tomato;
+}
