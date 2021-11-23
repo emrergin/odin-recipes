@@ -1,5 +1,5 @@
 h1{
-font-size: 98px;
+font-size: 5vw;
 }
 
 li,p{
@@ -19,7 +19,7 @@ ol, ol ul{
 }
 
 h2{
-    font-size: 40px;
+    font-size: 2.5vw;
     color:white;
     background-color: tomato;
 }
@@ -28,4 +28,5 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width:auto;
 }
