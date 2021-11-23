@@ -28,5 +28,5 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width:50vh;
+    width:max(50vh,100vw);
 }
