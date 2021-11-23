@@ -6,11 +6,15 @@ li,p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+p,h1,h2{
+    text-align: center;
+}
+
 ul{
     background-color:beige;
 }
 
-ol{
+ol, ol ul{
     background-color:lightblue;
 }
 
@@ -18,4 +22,10 @@ h2{
     font-size: 40px;
     color:white;
     background-color: tomato;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
