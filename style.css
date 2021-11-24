@@ -34,3 +34,8 @@ img{
     margin-right: auto;
     width:min(50vh,98vw);
 }
+
+.icindekiler{
+    font-size: 3vh;
+    text-align: center;
+}
